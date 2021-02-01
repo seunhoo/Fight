@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="A">
+      <UniqueIdentifier>{8320b8cb-d0e1-4724-82b8-a48c6a5a625a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="B">
+      <UniqueIdentifier>{600161a6-ae14-48aa-b97a-942012812e69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C">
+      <UniqueIdentifier>{769df982-42e1-416d-8a31-9fb0c73052ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="D">
+      <UniqueIdentifier>{bb58565a-5d2f-4a68-9a90-440f28e91203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="E">
+      <UniqueIdentifier>{72fe22f9-552e-41fe-9319-7d836fdac1a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="D\Player">
+      <UniqueIdentifier>{2b1d4922-1cb3-476f-bc9f-62f6a27f54bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="D\Map">
+      <UniqueIdentifier>{6ebf33de-5853-42da-ab51-407ad78c8249}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="D\MGR">
+      <UniqueIdentifier>{1740fc46-8232-4bb6-bfa0-daa7afacf016}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Test1.cpp" />
+    <ClCompile Include="App.cpp">
+      <Filter>A</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>A</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>A</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneDirector.cpp">
+      <Filter>A</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>B</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>B</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>B</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectMgr.cpp">
+      <Filter>C</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceMgr.cpp">
+      <Filter>C</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>B</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundMgr.cpp">
+      <Filter>C</Filter>
+    </ClCompile>
+    <ClCompile Include="RankMgr.cpp">
+      <Filter>C</Filter>
+    </ClCompile>
+    <ClCompile Include="Kyo.cpp">
+      <Filter>D\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMain.cpp">
+      <Filter>D</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>D\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="ScareCrow.cpp">
+      <Filter>D\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Hp.cpp">
+      <Filter>D\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="HpMgr.cpp">
+      <Filter>D\MGR</Filter>
+    </ClCompile>
+    <ClCompile Include="Hp2.cpp">
+      <Filter>D\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Kyo2.cpp">
+      <Filter>D\Player</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Singleton.h">
+      <Filter>A</Filter>
+    </ClInclude>
+    <ClInclude Include="App.h">
+      <Filter>A</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>A</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>A</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneDirector.h">
+      <Filter>A</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>B</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>B</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>B</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectMgr.h">
+      <Filter>C</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceMgr.h">
+      <Filter>C</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>B</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundMgr.h">
+      <Filter>C</Filter>
+    </ClInclude>
+    <ClInclude Include="RankMgr.h">
+      <Filter>C</Filter>
+    </ClInclude>
+    <ClInclude Include="Kyo.h">
+      <Filter>D\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMain.h">
+      <Filter>D</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>D\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="ScareCrow.h">
+      <Filter>D\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Hp.h">
+      <Filter>D\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="HpMgr.h">
+      <Filter>D\MGR</Filter>
+    </ClInclude>
+    <ClInclude Include="Hp2.h">
+      <Filter>D\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Kyo2.h">
+      <Filter>D\Player</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
