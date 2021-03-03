@@ -1,0 +1,47 @@
+﻿  Animation.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  App.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Hp.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Hp2.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  HpMgr.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Input.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Kyo.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Kyo2.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Map.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Object.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  ObjectMgr.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  RankMgr.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Renderer.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  ResourceMgr.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  ScareCrow.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  SceneDirector.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  SceneMain.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  SoundMgr.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Sprite.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  stdafx.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Test1.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Texture.cpp
+C:\Users\user\Desktop\FightGame\Fight\Project6\stdafx.h(10,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  코드를 생성하고 있습니다...

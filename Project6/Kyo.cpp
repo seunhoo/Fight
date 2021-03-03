@@ -160,7 +160,7 @@ void Kyo::Attack()
 
 			m_Player = m_RPunch;
 		}
-		if (m_Player->m_CurrentFrame >= 4)  n utgb n mn         
+		if (m_Player->m_CurrentFrame >= 4) 
 		{
 
 			m_State = State::NONE;

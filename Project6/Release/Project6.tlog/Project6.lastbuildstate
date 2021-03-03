@@ -1,2 +1,2 @@
-#TargetFrameworkVersion=v4.0:PlatformToolSet=v142:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0
-Release|Win32|E:\고니\Test7 - 리듬 게임 Believer\Test6\Project6\|
+PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.28.29333:TargetPlatformVersion=10.0.16299.0:
+Release|Win32|C:\Users\user\Desktop\FightGame\Fight\|
